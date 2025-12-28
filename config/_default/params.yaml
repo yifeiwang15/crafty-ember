@@ -5,6 +5,9 @@ hugoblox:
     type: person
     tagline: AI Researcher | Biogen
     description: I am working on AI for Drug Discovery, focusing on generative small molecule design.
+    social:
+      twitter: xxx
+    organization: Biogen
   theme:
     mode: system
     pack: default
